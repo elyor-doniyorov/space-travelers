@@ -36,7 +36,6 @@
 - Open the folder with your code editor
 - Create a branch to work on
 - Run `npm install`
-- Run `npm run build`
 - Run `npm run start` to launch the server.
 
 ## Authors
