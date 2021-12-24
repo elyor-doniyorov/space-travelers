@@ -13,7 +13,7 @@
 #### 3. My profile page
 ![My profile](./src/img/profile.PNG)
 
-## Built With
+## Built With Techs
 
 - HTML
 - CSS
