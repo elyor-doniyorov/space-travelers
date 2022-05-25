@@ -40,6 +40,13 @@
 
 ## Authors
 
+👤 **Elyor Doniyorov**
+
+## Elyor's Profile
+
+- Github: [@elyor-doniyorov](https://github.com/elyor-doniyorov)
+- LinkedIn: [@elyor-doniyorov](www.linkedin.com/in/elyor-doniyorov)
+
 👤 **Elmar AbdulKarimov**
 
 ## Elmar's Profile
@@ -48,12 +55,7 @@
 - Twitter: [@twitterhandle](https://twitter.com/EAbdulkarimov)
 - LinkedIn: [LinkedIn](/)
 
-👤 **Elyor Doniyorov**
 
-## Elyor's Profile
-
-- Github: [@elyor-doniyorov](https://github.com/elyor-doniyorov)
-- LinkedIn: [@elyor-doniyorov](www.linkedin.com/in/elyor-doniyorov)
 
 ## 🤝 Contributing
 
